@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempMonitorApp</string>
+    <string name="Application_title">Temperature-Humidity Reader</string>
+    <string name="Current_temp_title">Current Temperature</string>
+    <string name="Current_hum_title">Current Humidity</string>
+
+
+</resources>
